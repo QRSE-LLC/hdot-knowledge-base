@@ -1,0 +1,22 @@
+# --- Raw / PII source material — never commit (stays in Drive workshop) ---
+# Official HDOT.wiki WordPress export contains real email addresses (PII)
+*.xml
+# Source-spec PDFs (raw binaries, redistribution-restricted)
+inputs/2005 Standard Specs/
+*.pdf
+
+# --- Obsidian vault config (machine-specific) ---
+.obsidian/
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
