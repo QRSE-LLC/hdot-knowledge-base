@@ -8,12 +8,6 @@
 
 ---
 
-## Project Context Documents
-
-| Source | Type | Date | Topic | Status |
-|--------|------|------|-------|--------|
-| [inputs/project-genesis-kathleen-chatgpt.md](inputs/project-genesis-kathleen-chatgpt.md) | Conversation | Spring 2026 | Project origin: Kathleen × ChatGPT — tool selection, intern structure, product strategy | `Logged` |
-
 ---
 
 ## Division 100 — General Provisions
