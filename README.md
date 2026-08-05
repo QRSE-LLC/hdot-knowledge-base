@@ -6,13 +6,15 @@ Maintained by QRSE LLC for internal contract-administration reference. Content i
 
 ## What's here
 
-- `raw/` — official source documents converted to Markdown, organized by division/section
+- `raw/` — official source documents converted to Markdown. `raw/division-*/` holds the 2005 Standard Specifications by division/section; `raw/materials-testing/` holds the HDOT LABS materials guides (Sampling and Testing Guide, Master Material Certification List, sampler qualifications)
 - `wiki/` — compiled reference pages: one per division/section (`wiki/divisions/`) and one per cross-cutting concept (`wiki/concepts/`), each summarizing the applicable spec language plus practice notes
 - `indexes/` — a source index, concept index, glossary, and an open-questions log tracking ambiguities and gaps identified during the build
 
 ## Status
 
-Actively being built out. Currently covers the 2005 Standard Specifications (partial) plus a small set of concept pages. Special Provisions and additional official HDOT reference manuals (Standard Plans, materials/testing guides, stormwater/BMP manuals, and others) are being added incrementally.
+Actively being built out. Currently covers the 2005 Standard Specifications (partial), the HDOT LABS materials and testing guides, and a set of concept pages. Additional official HDOT reference manuals (Standard Plans, stormwater/BMP manuals, the 1973 Construction Manual, and others) are being added incrementally.
+
+Project Special Provisions are not currently in this repo. Because they are contract-specific and this repository is public, where they should live is an open question — see `indexes/open-questions.md`.
 
 ## Scope and limits
 

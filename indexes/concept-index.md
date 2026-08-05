@@ -349,6 +349,18 @@
 | 770.02 | Traffic Signal Heads | 770 | `[ ]` |
 | 770.05 | Controller Equipment | 770 | `[ ]` |
 
+## Materials Acceptance and Testing
+
+> Sourced from the HDOT LABS materials guides in `raw/materials-testing/`, not the
+> Standard Specifications table of contents. Reference column cites the governing guide item.
+
+| Reference | Concept | Source | Status |
+|-----------|---------|--------|--------|
+| Notes 2, 3 · Spec 106.01, 106.04 | [[Concept: Materials Acceptance and Verification Testing]] | Sampling Guide + Spec 106 | `[x]` |
+| MML all divisions · Spec 106.05, 106.07 | [[Concept: Material Certification and Submittals]] | Master Material List + Spec 106 | `[x]` |
+| How to Meet Requirements §1–2 | [[Concept: Sampler Qualification]] | Sampler qualifications guide | `[x]` |
+| Note 6G · Items 13–18 | [[Concept: Compaction Testing]] | Sampling Guide, geotechnical | `[x]` |
+
 ---
 
 *Sourced from 2005 HDOT Standard Specifications Table of Contents — 2026-05-20*
