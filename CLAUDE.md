@@ -41,7 +41,15 @@ This extends the accuracy rule above. HDOT contract documents override each othe
 
 The Master Material List states this itself: standard plans, standard specifications, special provisions, and project plans all take precedence over it.
 
-**Special Provisions are not currently in this repo.** For a project-specific question, give the general requirement, cite it, and say plainly that the contract's Special Provisions govern and are not loaded here. Never infer one contract's provisions from another's.
+**Project-specific material lives in a separate private repository,** `QRSE-LLC/hdot-projects`.
+It holds each contract's Special Provisions, submittal register, and RFIs, and it **overrides this
+repo** for that contract.
+
+Before answering a project-specific question, check whether that repo is loaded. If it is not, you
+do not have the governing tier - say so rather than presenting the general requirement as final,
+and ask for `QRSE-LLC/hdot-projects` to be named in the request. An answered RFI or a Special
+Provision on that contract can change the answer, and an answer that omits the missing tier reads
+as complete when it is not. For a project-specific question, give the general requirement, cite it, and say plainly that the contract's Special Provisions govern and are not loaded here. Never infer one contract's provisions from another's.
 
 ### Citation discipline
 
