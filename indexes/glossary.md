@@ -2,7 +2,7 @@
 
 > **Project:** QRSE Knowledge Base — Proof of Concept
 > **Source:** 2005 HDOT Standard Specifications for Road and Bridge Construction
-> **Last updated:** 2026-05-20
+> **Last updated:** 2026-08-05
 >
 > Terms are defined as they are used in the HDOT standard specifications. Subsection references indicate where the term is formally defined or first used.
 
@@ -48,3 +48,27 @@
 | Unauthorized Work | Work outside approved limits or without written authority; not compensable; can be ordered removed at no cost to State | 105.12 |
 | VECP | Value Engineering Cost Proposal — Contractor proposal to reduce cost without impairing function; savings shared with State on contracts >$100,000 | 105.15 |
 | Working Day | Calendar day when Contractor can work 4+ hours with normal workforce; excludes weekends, State holidays, and Engineer-ordered suspensions | 101.03 |
+
+---
+
+## Materials and Testing Terms
+
+> Defined as used in the HDOT LABS materials guides in `raw/materials-testing/`.
+> Reference column cites the guide rather than a Standard Specifications subsection.
+
+| Term | Definition | Reference |
+|------|------------|-----------|
+| Acceptance Testing | Sampling and testing by the State, County, or their consultant to determine whether a material complies with the contract | Sampling Guide, acceptance column |
+| APL | Approved Product List — product appears on a pre-approved list; the APL number is cited in place of a sample or certificate | Master Material List, codes |
+| DA | Designer Approval — designer reviews and approves the material, typically with manufacturer's specifications | Master Material List, codes |
+| Established Source | A material source already being tested on other projects, for which duplicate testing is not required and existing results may be used | Sampling Guide, Note 3 |
+| FSTQP | Field Sampling and Testing Qualification Program — LABS certification in Asphalt, Soils and Aggregates, or Concrete; valid 5 years | How to Meet Requirements §1 |
+| Independent Assurance (IA) | Annual LABS evaluation that keeps a sampler's qualification current; qualification lapses without an IA or certification exam within 12 months | How to Meet Requirements §2 |
+| JC Form | Job control transmittal / sample card under which samples and material documentation are submitted to LABS | How to Meet Requirements, forms |
+| LAB | Laboratory Sample — a physical sample submitted for testing at the frequency in the Sampling Guide | Master Material List, codes |
+| LABS | HDOT Materials Testing and Research Branch, current name. Older source documents say "MTRB" | LABS guides, current usage |
+| Project Summary Schedule | Tracking document recording acceptability of every material entering the project | How to Meet Requirements §3 |
+| Qualified Sampler | A person certified in the relevant material class and current on IA, who takes or directly observes a sample and is named under "Sampled By" on the JC form | How to Meet Requirements, forms |
+| Reviewing Office | The LABS office that reviews a submittal — LB bituminous, LG geotechnical, LS structural, LR other | Master Material List |
+| Small Quantity | A material-specific threshold below which reduced or waived testing applies; thresholds vary by item and are not universal | Sampling Guide, small quantities column |
+| Verification Testing | State testing to validate Contractor QC data used in the acceptance decision; applies only when the contract specifies contractor QC, and on federal-aid work only with FHWA approval | Sampling Guide, Note 2 |

@@ -3,7 +3,7 @@
 > **Project:** QRSE Knowledge Base — Proof of Concept  
 > **Source:** 2005 HDOT Standard Specifications for Road and Bridge Construction  
 > **Total sections:** 119  
-> **Last updated:** 2026-05-20  
+> **Last updated:** 2026-08-05  
 > **Status legend:** `Raw Extracted` = Markdown in raw/ · `Wiki Page Created` = wiki/ page exists
 
 ---
@@ -208,6 +208,31 @@
 
 ---
 
+## Materials and Testing Guides
+
+> Official HDOT LABS materials guides. Not part of the 2005 Standard Specifications.
+> These supply sampling frequencies and certification requirements the spec book does not state.
+
+| Document | Coverage | Method | Raw File | Status |
+|----------|----------|--------|----------|--------|
+| Sampling and Testing Guide | General notes (Notes 1, 2, 3, 4S, 5S, 6G) | Text | [raw/materials-testing/sampling-testing-guide/00-general-notes.md](raw/materials-testing/sampling-testing-guide/00-general-notes.md) | `Raw Extracted` |
+| Sampling and Testing Guide | Bituminous (HWY-LB) — 12 items | Text | [raw/materials-testing/sampling-testing-guide/01-bituminous-hwy-lb.md](raw/materials-testing/sampling-testing-guide/01-bituminous-hwy-lb.md) | `Raw Extracted` |
+| Sampling and Testing Guide | Geotechnical (HWY-LG) — 11 items | Text | [raw/materials-testing/sampling-testing-guide/02-geotechnical-hwy-lg.md](raw/materials-testing/sampling-testing-guide/02-geotechnical-hwy-lg.md) | `Raw Extracted` |
+| Sampling and Testing Guide | Structural (HWY-LS) — 29 items | Text | [raw/materials-testing/sampling-testing-guide/03-structural-hwy-ls.md](raw/materials-testing/sampling-testing-guide/03-structural-hwy-ls.md) | `Raw Extracted` |
+| Sampling and Testing Guide | Other (HWY-LR) — 17 items | Text | [raw/materials-testing/sampling-testing-guide/04-other-hwy-lr.md](raw/materials-testing/sampling-testing-guide/04-other-hwy-lr.md) | `Raw Extracted` |
+| Master Material Certification List | How to use, disclaimers, certification codes | Text | [raw/materials-testing/master-material-list/00-how-to-use-and-disclaimers.md](raw/materials-testing/master-material-list/00-how-to-use-and-disclaimers.md) | `Raw Extracted` |
+| Master Material Certification List | Division 200 — Earthwork (6 sections) | Text | [raw/materials-testing/master-material-list/200-earthwork.md](raw/materials-testing/master-material-list/200-earthwork.md) | `Raw Extracted` |
+| Master Material Certification List | Division 300 — Bases (7 sections) | Text | [raw/materials-testing/master-material-list/300-bases-and-pavements.md](raw/materials-testing/master-material-list/300-bases-and-pavements.md) | `Raw Extracted` |
+| Master Material Certification List | Division 400 — Pavements (6 sections) | Text | [raw/materials-testing/master-material-list/400-pavements-and-surface.md](raw/materials-testing/master-material-list/400-pavements-and-surface.md) | `Raw Extracted` |
+| Master Material Certification List | Division 500 — Structures (9 sections) | Text | [raw/materials-testing/master-material-list/500-structures.md](raw/materials-testing/master-material-list/500-structures.md) | `Raw Extracted` |
+| Master Material Certification List | Division 600 — Incidentals (44 sections) | Text | [raw/materials-testing/master-material-list/600-incidentals.md](raw/materials-testing/master-material-list/600-incidentals.md) | `Raw Extracted` |
+| Master Material Certification List | Division 700 — Materials (18 sections) | Text | [raw/materials-testing/master-material-list/700-materials.md](raw/materials-testing/master-material-list/700-materials.md) | `Raw Extracted` |
+| How to Meet Material Sampling and Testing Requirements | FSTQP certification, IA evaluations, JC forms, acceptance labs | Text | [raw/materials-testing/qualifications/sampler-certification-and-forms.md](raw/materials-testing/qualifications/sampler-certification-and-forms.md) | `Raw Extracted` |
+
+**Source documents:** Sampling and Testing Guide for Acceptance and Verification (July 2023, QRSE copy dated 2025-05-16) · Master Material Certification List (rev. 2018-05-11) · How to Meet Material Sampling and Testing Requirements (rev. 2017-02-14). Source PDFs are excluded from the repo per `.gitignore` and held in the Drive workshop.
+
+---
+
 ## Skipped / Not Converted
 
 | File | Reason |
@@ -223,4 +248,4 @@
 ---
 
 *Index titles verified against official 2005 HDOT Standard Specifications Table of Contents.*  
-*Last updated: 2026-05-20*
+*Last updated: 2026-08-05*
